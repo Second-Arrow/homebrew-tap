@@ -1,8 +1,8 @@
 cask "aerialflow" do
-  version "1.0.6"
-  sha256 "a00f676f7e86830d4d4386dd7b4cdf144816dbf23dba6947bac51b2df7671c51"
+  version "1.0.7"
+  sha256 "52b5d60d0a43c89b1cee8fc2db7950c787e18bb28119c7f2a52dbcd265fedfd4"
 
-  url "https://github.com/second-arrow/aerialflow/releases/download/v1.0.6/AerialFlow-1.0.6-8-universal.dmg",
+  url "https://github.com/second-arrow/aerialflow/releases/download/v1.0.7/AerialFlow-1.0.7-9-universal.dmg",
       verified: "github.com/second-arrow/aerialflow/"
   name "AerialFlow"
   desc "Fixes macOS Aerial wallpaper rotation and adds screensaver controls"
